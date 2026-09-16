@@ -15,7 +15,6 @@ Fordeling av arbeidsoppgaver (30 minutter) – Introduksjon av medlemmer, vise t
 Pseudo-arbeid og relasjonsbygging (35 minutter) – Arbeid som nødvendigvis ikke gjør at prosjektet går fremover men bygger relasjoner innad i teamet.
 
 ## 2.3 Pseudo-arbeid og relasjonsbygging
-
 Relasjonsbygging er viktig med tanke på at prosjektet har tidsavgrensning. Det betyr altså at man ikke har så mye tid til å bygge relasjoner som prosjektet går, men burde legge av god til til det i starten for at komplikasjoner ikke skal oppstå.
 
 Starter med en bli-kjent runde hvor man sier sitt navn og alder. Deretter kan personen si litt om hva de kan tilby gruppen, og om det er noen bekymringer de har.
