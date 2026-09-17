@@ -9,3 +9,4 @@
 # 5. Håndtering av tidspress og "planleggingsfellen"
 
 # 6. Sikring av god kommunikasjon
+asdfghjkl
