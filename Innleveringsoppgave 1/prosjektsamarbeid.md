@@ -25,7 +25,6 @@ Deretter har man en felles diskusjon hvor alle medlemmene sier en spilleregel so
 
 Det er også lurt å tenke på at det kan bli for mye av pseudo-arbeid, som gjør at man ikke kommer noe vei. Det finnes en mellomting, med tanke på antall aktiviteter man skal ha. 
 
-
 # 3. Rammer for relasjonelle kontrakter
 
 # 4. Proaktive mekanismer for konflikthåndtering
