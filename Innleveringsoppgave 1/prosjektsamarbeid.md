@@ -3,6 +3,7 @@
 # 2. Design av "det første møtet"
 
 # 3. Rammer for relasjonelle kontrakter
+##2.1
 
 # 4. Proaktive mekanismer for konflikthåndtering
 
