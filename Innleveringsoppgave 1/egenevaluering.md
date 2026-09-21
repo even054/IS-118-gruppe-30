@@ -15,7 +15,7 @@ Den ene gruppemedlemmet som ikke møtet opp var vanskelig og kontakte, som var u
 
 ### Var formuleringene for vage (f.eks. "alle må bidra like mye" eller "vi skal møte tidsnok"), og hvordan påvirket dette samarbeidet?
 
-Vi har enda ikke sett at kontrakten har betydelige svakheter som vi burde ha endret på. Vi har hatt et gruppemedlem som droppet ut plutselig uten å si ifra, som det er vanskelig å ta hensyn til i en kontrakt, og/eller lage regler for. Siden alle har vært motivert til å bidra så har formuleringene våre vært passe vage til nåværende tidspunkt, og det har ikke vært nødvendig til nå å måtte gå for mye i detaljer. Det skal sies at vi er fremdeles tidlig i samarbeidet og fremtidige problemer kan dukke opp som vi ikke har tatt hensyn til.
+Vi har enda ikke sett at kontrakten har betydelige svakheter som vi burde ha endret på. Vi har hatt et gruppemedlem som droppet ut plutselig uten å si ifra, som det er vanskelig å ta hensyn til i en kontrakt, og/eller lage regler for. Siden alle har vært motivert til å bidra så har formuleringene våre vært passe vage til nåværende tidspunkt, og det har ikke vært nødvendig til å måtte gå for mye i detaljer. Det skal sies at vi er fremdeles tidlig i samarbeidet og fremtidige problemer kan dukke opp som vi ikke har tatt hensyn til.
 
 ## Erfaringer og råd for fremtidig prosjektarbeid
 
