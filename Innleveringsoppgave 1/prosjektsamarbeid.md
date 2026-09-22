@@ -64,6 +64,8 @@ Det er også lurt å tenke på at det kan bli for mye av pseudo-arbeid, som gjø
 
 # 4. Proaktive mekanismer for konflikthåndtering
 
+I et team vil det oppstå uenighet som kan føre til konflikt. God planlegging og struktur tidlig i prosjektets løp kan være med å redusere mengden konflikt som oppstår, men det som regel oppstå konflikt i et team. Derfor bør det planlegges og bestemmes hvordan uenighet skal løses. En slik løsning kan være å opprette et klageorgan som kan bistå i mekling mellom parter som er uenig, dette bør bestå av spesialister som har kompetanse og kan gi sin mening. I tillegg kan et slikt organ hente inn ekstra kompetanse om det trengs. I en meklings situasjon skal ikke intriger mellom personer ligge til grunn, men kun faglig evaluering av løsningen. Klageorganet bør oppfattes som nøytralt som gjør at de som skal benytte seg av dette føler en rettferdighet i utfallet. Det at et slik ordning eksisterer i et prosjekt kan føre til at de i et team føler en større mulighet for å bli hørt. Personer i teamet vet også at de har en arena å ta opp uenigheter som oppstår, som gjør at slike uenigheter kan tas hånd om før de blir til store konflikter.
+
 # 5. Håndtering av tidspress og "planleggingsfellen"
 
 ## 5.1 Tidspress
