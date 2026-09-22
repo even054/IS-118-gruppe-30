@@ -3,18 +3,20 @@
 # 2. Design av "det første møtet"
 
 ## 2.1 Formål med møtet
-Det første møtet skal handle om at man skal ha en forståelse av at prosjektgruppen er tverrsektoriell, man skal bygge trygghet og ha en forståelse av at prosjektet er tidsbegrenset (Jacobsen, 2016, s. 37).
+Det første møtet burde handle om at man skal få et overblikk over at prosjektgruppen er spredt over flere bakgrunner. Det skal bygges trygghet og man skal ha en forståelse over at prosjektet er tidsbegrenset (Jacobsen, 2016, s. 37).
 
-Prosjektgruppen er tverrsektoriell, det betyr i at mest sannsynlig så kjenner ikke de fleste hverandre (Jacobsen, 2016, s. 37). 
+Det at prosjektgruppen er spredt over flere bakgrunner betyr at mest sannsynlig så kjenner ikke de fleste hverandre, noe som gjør at relasjonsbygging er ekstra viktig (Jacobsen, 2016, s. 37).
+
 
 ## 2.2 Forslag til agenda
-Mottakelse (25 minutter) – Tidsbegrensingen, forklare hva problemet er og ressursene til prosjektet (Jacobsen, 2016, s. 37).
+Det første som burde startes med er mottakelse av prosjektmedlemmer som det legges av 25 minutter til. Da er introduksjon av problemet, tidsbegrensing og ressurser som er dedikert til prosjektet (Jacobsen, 2016, s. 37).
 
-Pseudo-arbeid og relasjonsbygging (35 minutter) – Arbeid som nødvendigvis ikke gjør at prosjektet går fremover, men bygger relasjoner innad i teamet (Jacobsen, 2016, s. 37, 38)
+Deretter går man over til relasjonsbygging som det legges av 35 minutter til. Det er noe som ikke nødvendigvis gjør at selve prosjektet går videre, men det bygger viktige relasjoner som er essensielle videre i prosjektet (Jacobsen, 2016, s. 37, 38).
 
-Målsetning (15 minutter) – Øking av innbyggerengasjement, transparens ved beslutninger og tallmessige mål.
+Etter man har skapt litt relasjoner så introduseres målsetning av prosjektet. Det er lagt av 15 minutter til dette. Da er det krav som var i prosjektbeskrivelse som øking av innbyggerengasjement, transparent ved beslutninger og tall mål.
 
-Distribusjon av arbeidsoppgaver (30 minutter) – Introduksjon av medlemmer, vise til tverrfagligheten. Hvem er det som skal gjøre hva?
+Så kommer distribusjon av arbeidsoppgaver, det er planlagt 30 minutter. Da er det introduksjon av medlemmer, vise til tverrfagligheten og hvem som egentlig skal gjøre hva.
+
 
 ## 2.3 Pseudo-arbeid og relasjonsbygging
 Det første møtet er også essensielt for prosjektet videre, man får et overblikk over de andre prosjektdeltakerne og man danner seg et bilde av helheten (Jacobsen, 2016, s. 37).
