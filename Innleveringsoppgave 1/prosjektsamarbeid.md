@@ -112,3 +112,6 @@ Erling burde legge til rette for at alle medlemmene får mulighet til å komme m
 Det er også viktig at Erling skaper ett trygt miljø hvor det er lavterskel for medlemmene å kunne si ifra dersom de er uenige eller ser problemer uten å være redd for negative reaksjoner. Uenighet bør behandles saklig og brukes til å finne gode løsninger.
  
 Til slutt bør Erling følge jevnlig opp kommunikasjonen i gruppen. Han kan spørre medlemmene om informasjonen er tydelig og om det er noe som kan forbedres. På denne måten kan kommunikasjonsproblemene oppdages tidlig, og prosjektgruppen kan arbeide mer effektivt mot målet om og utvikle og lansere portalen innen 15 måneder.
+
+# Referanser
+Jacobsen, D. I. (2016). *Engangsorganisasjonen*: Organisering og ledelse av prosjekter. Fagbokforlaget
