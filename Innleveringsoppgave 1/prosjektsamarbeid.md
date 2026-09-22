@@ -27,18 +27,20 @@ For å oppsummere så bør Erling finne ansatte med et korrekt mangfold av kompe
 # 2. Design av "det første møtet"
 
 ## 2.1 Formål med møtet
-Det første møtet skal handle om at man skal ha en forståelse av at prosjektgruppen er tverrsektoriell, man skal bygge trygghet og ha en forståelse av at prosjektet er tidsbegrenset (Jacobsen, 2016, s. 37).
+Det første møtet burde handle om at man skal få et overblikk over at prosjektgruppen er spredt over flere bakgrunner. Det skal bygges trygghet og man skal ha en forståelse over at prosjektet er tidsbegrenset (Jacobsen, 2016, s. 37).
 
-Prosjektgruppen er tverrsektoriell, det betyr i at mest sannsynlig så kjenner ikke de fleste hverandre (Jacobsen, 2016, s. 37). 
+Det at prosjektgruppen er spredt over flere bakgrunner betyr at mest sannsynlig så kjenner ikke de fleste hverandre, noe som gjør at relasjonsbygging er ekstra viktig (Jacobsen, 2016, s. 37).
+
 
 ## 2.2 Forslag til agenda
-Mottakelse (25 minutter) – Tidsbegrensingen, forklare hva problemet er og ressursene til prosjektet (Jacobsen, 2016, s. 37).
+Det første som burde startes med er mottakelse av prosjektmedlemmer som det legges av 25 minutter til. Da er introduksjon av problemet, tidsbegrensing og ressurser som er dedikert til prosjektet (Jacobsen, 2016, s. 37).
 
-Pseudo-arbeid og relasjonsbygging (35 minutter) – Arbeid som nødvendigvis ikke gjør at prosjektet går fremover, men bygger relasjoner innad i teamet (Jacobsen, 2016, s. 37, 38)
+Deretter går man over til relasjonsbygging som det legges av 35 minutter til. Det er noe som ikke nødvendigvis gjør at selve prosjektet går videre, men det bygger viktige relasjoner som er essensielle videre i prosjektet (Jacobsen, 2016, s. 37, 38).
 
-Målsetning (15 minutter) – Øking av innbyggerengasjement, transparens ved beslutninger og tallmessige mål.
+Etter man har skapt litt relasjoner så introduseres målsetning av prosjektet. Det er lagt av 15 minutter til dette. Da er det krav som var i prosjektbeskrivelse som øking av innbyggerengasjement, transparent ved beslutninger og tall mål.
 
-Distribusjon av arbeidsoppgaver (30 minutter) – Introduksjon av medlemmer, vise til tverrfagligheten. Hvem er det som skal gjøre hva?
+Så kommer distribusjon av arbeidsoppgaver, det er planlagt 30 minutter. Da er det introduksjon av medlemmer, vise til tverrfagligheten og hvem som egentlig skal gjøre hva.
+
 
 ## 2.3 Pseudo-arbeid og relasjonsbygging
 Det første møtet er også essensielt for prosjektet videre, man får et overblikk over de andre prosjektdeltakerne og man danner seg et bilde av helheten (Jacobsen, 2016, s. 37).
@@ -50,6 +52,15 @@ Deretter har man en felles diskusjon hvor alle medlemmene sier en spilleregel so
 Det er også lurt å tenke på at det kan bli for mye av pseudo-arbeid, som gjør at man ikke kommer noe vei. Det blir også ofte skryting når man skal dele sine erfaringer, det kan også bli sett litt negativt ned på (Jacobsen, 2016, s. 37).
 
 # 3. Rammer for relasjonelle kontrakter
+## 3.1 
+ «Det er relasjonene mellom de ulike aktørene i prosjektet som vektlegges, hvordan man ønsker at disse skal være, og hvordan disse skal organiseres.» (Jacobsen, 2016, s. 44). I motsetning til en transaksjonskontrakt, som fokuserer på selve transaksjonen, pris og spesifikke leveranser over kort tid, vektlegger relasjonskontrakten relasjoner, felles mål og verdiskaping over tid. Forskjellen på varighet er at transaksjon kontrakten er vanligvis kortsiktig eller tidsavgrenset, mens relasjonskontrakten er oftest langsiktig og samarbeidende.  Det er også viktig å skille mellom prosjektmål, altså hva en ønsker å oppnå, og relasjonelle forhold, altså dynamikken mellom mennesker på jobb. 
+ ## 3.2
+ Nå vil jeg forklare kort om jerntriangelet og det er «hva som skal leveres når til hvilken pris, samt ulike kriterier for kvalitet på produktet som prosjektet skal ende opp med.» (Jacobsen, 2016, s. 43). Jerntriangelet handler om tid, kostnad og kvalitet, men det sier ingenting om Erling og prosjekteier faktisk stoler på hverandre. Dette er spesielt viktig i Erlings prosjekt fordi dette kan stoppe hele prosjektet, siden prosjekteieren har pengene og det strategiske ansvaret mens prosjektleder styrer den daglige driften. Erlings tverrfaglige prosjektgruppe kan gi flere perspektiver og mer innovasjon, men også kommunikasjonsproblemer og konflikter mellom fagretninger. 
+ ## 3.3
+ Hva bør en relasjonell kontrakt inneholde? En relasjonell kontrakt bør inneholde hvor mye myndighet og ansvar prosjektlederen skal ha. Forskning tyder på at disse to faktorene er de viktigste for å få mest mulig suksess. Det er også anbefalt at prosjektlederens handlingsrom bør komme opp i kontrakten mellom prosjektleder og prosjekteier. Denne partnerskapskontrakten er dominerende i prosjekter, men lite fleksibel. I nyere kontrakter bør det også inneholde hvordan samarbeidet mellom prosjekteier og prosjektleder skal foregå, hvordan og hva slags informasjon som skal spres, hvor og hvordan uventede hendelser skal tas opp og hvordan og hvor uenigheter skal håndteres. (Jacobsen, 2016, s. 42-44).
+ ## 3.4
+ Erling som prosjektleder kan bestemme noen ting selv før prosjekteier kommer inn i bilde. Det Erling kan bestemme kan være for eksempel oppgavefordeling, hvordan budsjettet skal bli delt opp, hva slags verktøy teamet skal bruke og kommunikasjon altså hvordan statusrapportering skal foregå i prosjektet. Det prosjekteieren bør bestemme er bemanning på høyt nivå og budsjettoverskridelser. Dersom det skjer noe galt og Erling må rapportere om fremdrift, risiko og om konsekvenser og om de bruker alt av budsjettet eller ikke. Alt dette kan rapporteres gjennom månedlige møter eller en kort rapport til prosjekteier. 
+ 
 
 # 4. Proaktive mekanismer for konflikthåndtering
 
@@ -90,3 +101,12 @@ Tips til Erling, som prosjektleder, for å ikke havne i en planleggingsfelle vil
 
 
 # 6. Sikring av god kommunikasjon
+God kommunikasjon er viktig for at gruppen skal kunne samarbeide effektivt. Gruppen består av personer med ulik faglig bakgrunn. Erling må derfor sørge for at alle får mulighet til å bidra, samtidig som prosjektet har en tydelig retning. 
+
+Et viktig tiltak er å ha faste møter i gruppen. Møtene kan brukes til å gå gjennom hva som har blitt gjort, hva som skal gjøres videre og om noen har problemer eller trenger hjelp. Det bør også være en tydelig agenda for møtene, slik at tiden blir brukt effektivt. Etter møtene kan Erling sende ut en kort oppsummering med viktige beslutninger og hvem som har ansvar for de ulike oppgavene. På denne måten blir det mindre misforståelser.
+
+Erling burde legge til rette for at alle medlemmene får mulighet til å komme med meninger og forslag til prosjektet. Siden gruppen er tverrfaglig, kan ulike medlemmer bidra med kunnskap som andre ikke har. Innbyggerrepresentanten kan for eksempel gi informasjon om hva brukerne ønsker, mens sikkerhetseksperten kan påpeke utfordringer knyttet til personvern og sikkerhet. Ved å lytte til alle perspektivene kan gruppen ta bedre beslutninger. 
+
+Det er også viktig at Erling skaper ett trygt miljø hvor det er lavterskel for medlemmene å kunne si ifra dersom de er uenige eller ser problemer uten å være redd for negative reaksjoner. Uenighet bør behandles saklig og brukes til å finne gode løsninger.
+ 
+Til slutt bør Erling følge jevnlig opp kommunikasjonen i gruppen. Han kan spørre medlemmene om informasjonen er tydelig og om det er noe som kan forbedres. På denne måten kan kommunikasjonsproblemene oppdages tidlig, og prosjektgruppen kan arbeide mer effektivt mot målet om og utvikle og lansere portalen innen 15 måneder.
