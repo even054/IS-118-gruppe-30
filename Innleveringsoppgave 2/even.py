@@ -10,9 +10,12 @@ valg_en = input("Hvilket valg tar du (A/B): ").lower()
 if valg_en == "a":
     poeng += 1
     print("Nytt scenario: Snakker med begge hver for seg, leder et fellesmøte og finner en kompromissløsning som begge aksepterer \n")
-else:
+elif valg_en == "b":
     poeng += 0
     print("Nytt scenario: Tar en beslutning alene, noe som fører til misnøye og eskalering av konflikten \n")
+else:
+    print("Du valgte et ugyldig alternativ, prøv igjen!")
+    quit()
 
 print("Situasjon 2: Hamdi og Hallgeir")
 print("A: Erling tar initiativ til et felles møte nå")
@@ -22,9 +25,12 @@ valg_to = input("Hvilket valg tar du (A/B): ").lower()
 if valg_to == "a":
     poeng += 1
     print("Nytt scenario: Samler Hamdi og Hallgeir til et felles møte og finner løsning som balanserer kontroll og åpenhet \n")
-else:
+elif valg_to == "b":
     poeng += 0
     print("Nytt scenario: Avventer situasjonen, noe som fører til eskalering av konflikten og splittelse i teamet \n")
+else:
+    print("Du valgte et ugyldig alternativ, prøv igjen!")
+    quit()
 
 print("Situasjon 3: Motivasjon i teamet")
 print("A: Sette av tid til relasjonsbygging og sosiale aktiviteter")
@@ -34,9 +40,12 @@ valg_tre = input("Hvilket valg tar du (A/B): ").lower()
 if valg_tre == "a":
     poeng += 1
     print("Nytt scenario: Prioriterer relasjonsbygging og sosiale aktiviteter, noe som styrker samholdet og motivasjonen i teamet \n")
-else:
+elif valg_tre == "b":
     poeng += 0
     print("Nytt scenario: Prioriterer fremdrift og leveranser, noe som øker stresset og senker motivasjonen i teamet \n")
+else:
+    print("Du valgte et ugyldig alternativ, prøv igjen!")
+    quit()
 
 print(f"Endepunkt ({poeng} poeng):")
 if poeng == 3:
