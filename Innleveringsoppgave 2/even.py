@@ -1,11 +1,11 @@
 poeng = 0
 
-print("Hei, velkommen til spillet vårt. Du skal velge et alternativ per situasjon så får du poeng basert på hva du velger og en ny situasjon. Til slutt så får du et endepunkt basert på poengene dine. \n")
+print("Hei, velkommen til spillet vårt. Du skal velge et alternativ per situasjon så får du poeng basert på hva du velger og en ny situasjon. Til slutt så får du et endepunkt basert på poengene dine.\n")
 
 print(
     "Situasjon 1: Silje og Elias\n" +
     "A: Individuelle samtaler først, deretter et strukturert fellesmøte om saken\n" +
-    "B: Erling avgjør selv \n"
+    "B: Erling avgjør selv\n"
 )
 valg_en = input("Hvilket valg tar du (A/B): ").lower()
 
@@ -22,7 +22,7 @@ else:
 print(
     "Situasjon 2: Hamdi og Hallgeir\n" +
     "A: Erling tar initiativ til et felles møte nå\n" +
-    "B: Erling avventer og håper de løser det selv \n"
+    "B: Erling avventer og håper de løser det selv\n"
 )
 valg_to = input("Hvilket valg tar du (A/B): ").lower()
 
@@ -39,7 +39,7 @@ else:
 print(
     "Situasjon 3: Motivasjon i teamet\n" +
     "A: Sette av tid til relasjonsbygging og sosiale aktiviteter\n" +
-    "B: Prioritere fremdrift og leveranser \n"
+    "B: Prioritere fremdrift og leveranser\n"
 )
 valg_tre = input("Hvilket valg tar du (A/B): ").lower()
 
