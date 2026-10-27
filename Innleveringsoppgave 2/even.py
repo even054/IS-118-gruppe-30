@@ -13,7 +13,6 @@ if valg_en == "a":
     poeng += 1
     print("Nytt scenario: Snakker med begge hver for seg, leder et fellesmøte og finner en kompromissløsning som begge aksepterer\n")
 elif valg_en == "b":
-    poeng += 0
     print("Nytt scenario: Tar en beslutning alene, noe som fører til misnøye og eskalering av konflikten\n")
 else:
     print("Du valgte et ugyldig alternativ, prøv igjen!")
@@ -30,7 +29,6 @@ if valg_to == "a":
     poeng += 1
     print("Nytt scenario: Samler Hamdi og Hallgeir til et felles møte og finner løsning som balanserer kontroll og åpenhet\n")
 elif valg_to == "b":
-    poeng += 0
     print("Nytt scenario: Avventer situasjonen, noe som fører til eskalering av konflikten og splittelse i teamet\n")
 else:
     print("Du valgte et ugyldig alternativ, prøv igjen!")
@@ -47,7 +45,6 @@ if valg_tre == "a":
     poeng += 1
     print("Nytt scenario: Prioriterer relasjonsbygging og sosiale aktiviteter, noe som styrker samholdet og motivasjonen i teamet\n")
 elif valg_tre == "b":
-    poeng += 0
     print("Nytt scenario: Prioriterer fremdrift og leveranser, noe som øker stresset og senker motivasjonen i teamet\n")
 else:
     print("Du valgte et ugyldig alternativ, prøv igjen!")
