@@ -1,4 +1,4 @@
-points = 0
+points = 0 
 
 print("Velkommen til leder-spillet vårt! Her vil du møte på en rekke konlfikter som du må håndtere!" \
 "Ved hvert valg får du to alternativer. Da trykker du inn 1 eller 2")
@@ -14,12 +14,10 @@ valg_en = int(input())
 
 if valg_en == 1:
     points +=1
-    #print("Godt valg!")
 
 elif valg_en ==2:
     points +=0
-    #print("dårlig valg!")
-
+    
 
 print("""Du håndterte situajsonen mellom Silje og Elias
 samtidig diskutere Hamdi og Hallgeir hvordan innbgyggerne skal delta i folkemøter. Det er enda rolig mellom dem
@@ -33,11 +31,9 @@ valg_en = int(input())
 
 if valg_en ==2:
     points +=1
-    #print("Godt valg!")
 
 elif valg_en ==1:
     points +=0
-    #print("dårlig valg!")
 
 print(""" Du håndterte sitasjonen mellom Hamdi og Hallgeir. 
 Du innser at teamet hanver i konflikter og det tærer på motivasjonen. 
@@ -50,11 +46,10 @@ valg_en = int(input())
 
 if valg_en ==2:
     points +=1
-    #print("Godt valg!")
 
 elif valg_en ==1:
     points +=0
-    #print("dårlig valg!")
+
 
 print(f"Du fikk {points} poeng!")
 
